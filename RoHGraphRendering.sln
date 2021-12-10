@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoHGraphRendering", "RoHGraphRendering\RoHGraphRendering.csproj", "{B33D6E02-9A36-490F-BF16-B0057CBC5E8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B33D6E02-9A36-490F-BF16-B0057CBC5E8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B33D6E02-9A36-490F-BF16-B0057CBC5E8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B33D6E02-9A36-490F-BF16-B0057CBC5E8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B33D6E02-9A36-490F-BF16-B0057CBC5E8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9D9FE1A-219F-48AD-AB7B-BE8953DCE50E}
+	EndGlobalSection
+EndGlobal
